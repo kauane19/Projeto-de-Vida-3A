@@ -85,6 +85,12 @@ botao.ativo{
         text-transform: uppercase;
     }
 
+    .contador{
+        font-size: 20px;
+        text-align: center;
+    }
+    
+
  .abas-textos{
         background-color: var(--texto-fundo);
         padding: 40px;
@@ -103,5 +109,4 @@ botao.ativo{
 
 .botao:last-child {
     border-radius: 0 40px 0 0;
-}
 }
